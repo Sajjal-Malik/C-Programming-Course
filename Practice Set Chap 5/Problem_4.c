@@ -1,3 +1,5 @@
+// Write a program using recursion to calculate nth element of Fibonacci series
+
 #include<stdio.h>
 
 int fibonacci(int);

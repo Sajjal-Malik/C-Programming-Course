@@ -1,3 +1,5 @@
+// Write a program using function to find average of three numbers.
+
 #include <stdio.h>
 
 // Function prototype
